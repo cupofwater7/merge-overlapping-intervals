@@ -1,5 +1,7 @@
+                                                Coding Interview Questions     
 # merge-overlapping-intervals
 
+Difficulty: medium
 
   Write a function that takes in a non-empty array of arbitrary intervals,
   merges any overlapping intervals, and returns the new intervals in no
